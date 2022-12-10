@@ -48,3 +48,14 @@ func main() {
 
 	fmt.Println("pointer:", &i)
 }
+
+/*
+zeroval doesn’t change the i in main, but zeroptr does because
+it has a reference to the memory address for that variable.
+
+➜  gru git:(main) ✗ go run pointers/pointers.go
+initial: 1
+zeroval: 1
+zeroptr: 0
+pointer: 0x1400001a0f0
+*/
