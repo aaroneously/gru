@@ -19,3 +19,4 @@
 - closures
 - recursion
 - pointers
+- strings-and-runes
