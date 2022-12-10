@@ -1,6 +1,6 @@
 # gru
 
-## Examples of basic fucntions and features of Go
+## Examples of basic functions and features of Go
 
 - hello-world
 - values
