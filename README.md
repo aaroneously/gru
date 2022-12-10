@@ -22,3 +22,4 @@
 - strings-and-runes
 - structs
 - methods
+- interfaces
