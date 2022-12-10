@@ -9,9 +9,9 @@ variety of data structures.
 func main() {
 
 	/*
-	       Here we use range to sum the
-		   numbers in a slice. Arrays work
-		   like this too.
+		    Here we use range to sum the
+			numbers in a slice. Arrays work
+			like this too.
 	*/
 	nums := []int{2, 3, 4}
 	sum := 0
