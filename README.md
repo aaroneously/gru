@@ -20,3 +20,4 @@
 - recursion
 - pointers
 - strings-and-runes
+- structs
