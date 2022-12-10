@@ -18,3 +18,4 @@
 - variadic-functions
 - closures
 - recursion
+- pointers
