@@ -14,4 +14,5 @@
 - maps
 - range
 - functions
+- multiple-return-values
 
