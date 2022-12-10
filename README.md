@@ -21,3 +21,4 @@
 - pointers
 - strings-and-runes
 - structs
+- methods
