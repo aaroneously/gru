@@ -25,3 +25,4 @@
 - interfaces
 - struct-embedding
 - generics
+- errors
