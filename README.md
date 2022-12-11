@@ -23,3 +23,4 @@
 - structs
 - methods
 - interfaces
+- struct-embedding
