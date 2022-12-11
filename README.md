@@ -26,3 +26,4 @@
 - struct-embedding
 - generics
 - errors
+- goroutines
