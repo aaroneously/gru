@@ -24,3 +24,4 @@
 - methods
 - interfaces
 - struct-embedding
+- generics

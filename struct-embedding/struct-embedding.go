@@ -73,3 +73,11 @@ func main() {
 	var d describer = co
 	fmt.Println("describer:", d.describe())
 }
+
+/*
+➜  gru git:(main) go run struct-embedding/struct-embedding.go
+co={num: 1, str: some name}
+also num: 1
+describe: base with num=1
+describer: base with num=1
+*/
