@@ -27,3 +27,4 @@
 - generics
 - errors
 - goroutines
+- channels
