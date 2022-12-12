@@ -28,3 +28,4 @@
 - errors
 - goroutines
 - channels
+- channel-buffering
