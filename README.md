@@ -29,3 +29,4 @@
 - goroutines
 - channels
 - channel-buffering
+- channel-synchronization
