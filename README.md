@@ -32,3 +32,4 @@
 - channel-synchronization
 - channel-directions
 - select
+- timeouts
