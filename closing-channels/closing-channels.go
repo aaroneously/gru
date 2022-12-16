@@ -61,6 +61,10 @@ func main() {
 }
 
 /*
+The idea of closed channels leads naturally to our next example:
+range over channels.
+*/
+/*
 ➜  gru git:(main) ✗ go run closing-channels/closing-channels.go
 sent job 1
 sent job 2
