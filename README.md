@@ -33,3 +33,4 @@
 - channel-directions
 - select
 - timeouts
+- non-blocking-channel-operations
