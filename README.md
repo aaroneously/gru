@@ -37,3 +37,4 @@
 - closing-channels
 - range-over-channels
 - timers
+- tickers
