@@ -38,3 +38,4 @@
 - range-over-channels
 - timers
 - tickers
+- worker-pools
