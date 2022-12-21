@@ -45,3 +45,4 @@
 - mutexes
 - stateful-goroutines
 - sorting
+- sorting-by-functions
