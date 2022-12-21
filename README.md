@@ -43,3 +43,4 @@
 - rate-limiting
 - atomic-counters
 - mutexes
+- stateful-goroutines
