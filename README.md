@@ -39,4 +39,5 @@
 - timers
 - tickers
 - worker-pools
-- wit-groups
+- wait-groups
+- rate-limiting
