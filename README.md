@@ -46,3 +46,4 @@
 - stateful-goroutines
 - sorting
 - sorting-by-functions
+- panic
