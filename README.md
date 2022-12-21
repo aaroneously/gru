@@ -41,3 +41,4 @@
 - worker-pools
 - wait-groups
 - rate-limiting
+- atomic-counters
