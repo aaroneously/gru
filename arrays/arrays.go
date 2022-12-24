@@ -2,7 +2,20 @@ package main
 
 import "fmt"
 
+/*
+In Go, an array is a numbered sequence of elements of a specific 
+length. In typical Go code, slices are much more common; arrays 
+are useful in some special scenarios.
+*/
+
 func main() {
+	
+	/*
+	Here we create an array a that will hold exactly 5 ints. 
+	The type of elements and length are both part of the 
+	array’s type. By default an array is zero-valued, which 
+	for ints means 0s.
+	*/
 	var a [5]int
 	fmt.Println("emp:", a)
 
